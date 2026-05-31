@@ -66,8 +66,11 @@ Random Forest (Main Model),"max_depth: 5, n_estimators: 100",15.0008,12.0279
 ---
 ## 6. 참고문헌 및 출처
 [1] Kaggle, "Students Performance in Exams" Open Dataset, Published by spscientist, URL: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data (Retrieved: 2026-05-31). 
+
 [2] Pedregosa, F. et al., "Scikit-learn: Machine Learning in Python", Journal of Machine Learning Research, Vol. 12, pp. 2825-2830, 2011. 
+
 [3] Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani, "An Introduction to Statistical Learning: with Applications in R", Springer, 2013. 
+
 [4] Wenya, Yu. (2025). 가정배경, 가정 내 사회적 자본, 사교육, 학습태도 및 학업성취 간의 구조적 관계 [박사학위논문, 경북대학교]. https://www.riss.kr/link?id=T17180600
-<img width="451" height="230" alt="image" src="https://github.com/user-attachments/assets/6bb9f163-a97e-46b1-a870-4afdf99b10e4" />
+
 
