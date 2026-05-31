@@ -60,7 +60,11 @@ eda_plot.py, result_plots.py =>
 ---
 
 분석 모델 (Model),최적 하이퍼파라미터 (Hyperparameters),Test RMSE,Test MAE
+
+
 Linear Regression (Baseline),N/A (선형 파라미터 자동 산출),12.9084,10.1961
+
+
 Random Forest (Main Model),"max_depth: 5, n_estimators: 100",15.0008,12.0279
 
 ---
